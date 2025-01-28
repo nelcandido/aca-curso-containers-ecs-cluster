@@ -10,7 +10,7 @@ ssm_public_subnet_1 = "/aca-vpc/vpc/subnet_public_1a"
 
 ssm_public_subnet_2 = "/aca-vpc/vpc/subnet_public_1b"
 
-ssm_public_subnet_3 = "/aca-vpc/vpc/subnet_public_1a"
+ssm_public_subnet_3 = "/aca-vpc/vpc/subnet_public_1c"
 
 ssm_private_subnet_1 = "/aca-vpc/vpc/subnet_private_1a"
 
